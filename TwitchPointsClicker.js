@@ -5,7 +5,6 @@
 // @description  Twitch Channel Points Auto Clicker
 // @author       David
 // @include      https://www.twitch.tv/*
-// @require      https://code.jquery.com/jquery-2.1.4.min.js
 // @icon         https://www.google.com/s2/favicons?domain=tampermonkey.net
 // ==/UserScript==
 
